@@ -1,0 +1,53 @@
+﻿<Window x:Class="AMONIC_Airlines.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC_Airlines"
+        mc:Ignorable="d"
+        Title="Manage Flight Schedules" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Border BorderBrush="Black" BorderThickness="1" Margin="0,19,0,0" Height="124" VerticalAlignment="Top" HorizontalAlignment="Center" Width="780"/>
+        <TextBlock HorizontalAlignment="Left" Margin="19,10,0,0" TextWrapping="Wrap" Text="Filter by" VerticalAlignment="Top" Background="White" OpacityMask="White" Width="49" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock TextWrapping="Wrap" Text="From" Margin="35,40,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="33" FontFamily="Tex Gyre Adventor"/>
+        <ComboBox x:Name="From_CB" DisplayMemberPath="IATACode" HorizontalAlignment="Left" Margin="73,39,0,0" VerticalAlignment="Top" Width="120" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock TextWrapping="Wrap" Text="To" Margin="306,40,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="29" FontFamily="Tex Gyre Adventor"/>
+        <ComboBox x:Name="To_CB" DisplayMemberPath="IATACode" HorizontalAlignment="Center" Margin="0,39,0,0" VerticalAlignment="Top" Width="120" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock TextWrapping="Wrap" Text="Sort by" Margin="551,40,0,0" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="53" FontFamily="Tex Gyre Adventor"/>
+        <ComboBox x:Name="SortBy_CB" HorizontalAlignment="Left" Margin="608,39,0,0" VerticalAlignment="Top" Width="120" FontFamily="Tex Gyre Adventor">
+            <ComboBoxItem Content="Date-time" IsSelected="true"/>
+            <ComboBoxItem Content="Price"/>
+            <ComboBoxItem Content="Confirmed"/>
+        </ComboBox>
+        <TextBlock HorizontalAlignment="Left" Margin="15,94,0,0" TextWrapping="Wrap" Text="Outbound" VerticalAlignment="Top" Width="65" FontFamily="Tex Gyre Adventor"/>
+        <DatePicker x:Name="Outbound_DP" HorizontalAlignment="Left" Margin="80,93,0,0" VerticalAlignment="Top" Width="120" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock HorizontalAlignment="Left" Margin="299,94,0,0" TextWrapping="Wrap" Text="Flight Number" VerticalAlignment="Top" Width="82" FontFamily="Tex Gyre Adventor"/>
+        <ComboBox x:Name="FLightNumber_CB" DisplayMemberPath="FlightNumber" HorizontalAlignment="Left" Margin="386,93,0,0" VerticalAlignment="Top" Width="74" FontFamily="Tex Gyre Adventor"/>
+        <Button Content="Apply" Click="ApplyFilter_Btn" HorizontalAlignment="Left" Margin="608,92,0,0" VerticalAlignment="Top" Width="120" FontFamily="Tex Gyre Adventor"/>
+        <DataGrid x:Name="DGrid" Margin="0,157,0,0" AutoGenerateColumns="False" IsReadOnly="True" Height="216" VerticalAlignment="Top" HorizontalAlignment="Center" Width="780" FontFamily="Tex Gyre Adventor">
+            <DataGrid.ItemContainerStyle>
+                <Style TargetType="DataGridRow">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Confirmed}" Value="False">
+                            <Setter Property="Background" Value="Red"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.ItemContainerStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date, StringFormat={}{0:dd\.}{0:MM\.}{0:yyyy}}" Width="70"/>
+                <DataGridTextColumn Header="Time" Binding="{Binding Time}"/>
+                <DataGridTextColumn Header="From" Binding="{Binding Routes.Airports.IATACode}"/>
+                <DataGridTextColumn Header="To" Binding="{Binding Routes.Airports1.IATACode}"/>
+                <DataGridTextColumn Header="Flight number" Binding="{Binding FlightNumber}"/>
+                <DataGridTextColumn Header="Aircraft" Binding="{Binding Aircrafts.Name}"/>
+                <DataGridTextColumn Header="Economy price" Binding="{Binding EconomyPrice, StringFormat=0.$}" Width="*"/>
+                <DataGridTextColumn Header="Business price" Binding="{Binding EconomyPrice, StringFormat=0.$}" Width="*"/>
+                <DataGridTextColumn Header="First class price" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Cancel Flight" Click="Cancel_Flight_Btn" HorizontalAlignment="Left" Margin="24,381,0,0" VerticalAlignment="Top" Width="87" FontFamily="Tex Gyre Adventor"/>
+        <Button Content="Edit Flight" Click="EditFlight_Btn" HorizontalAlignment="Left" Margin="133,381,0,0" VerticalAlignment="Top" Width="87" FontFamily="Tex Gyre Adventor"/>
+        <Button Content="Import Changes" HorizontalAlignment="Left" Margin="654,381,0,0" VerticalAlignment="Top" Width="114" Click="Import_Btn" FontFamily="Tex Gyre Adventor"/>
+    </Grid>
+</Window>

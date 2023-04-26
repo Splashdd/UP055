@@ -1,0 +1,26 @@
+﻿<Window x:Class="AMONIC_Airlines.Windows.AddRoleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC_Airlines.Windows"
+        mc:Ignorable="d"
+        Title="AddRoleWindow" Height="330" Width="400" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="29,26,0,0" TextWrapping="Wrap" Text="Email addres" VerticalAlignment="Top" FontFamily="Tex Gyre Adventor"/>
+        <TextBox x:Name="Email_TB" Text="{Binding Email}"  HorizontalAlignment="Left" Margin="113,26,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,64,0,0" TextWrapping="Wrap" Text="First name" VerticalAlignment="Top" FontFamily="Tex Gyre Adventor"/>
+        <TextBox x:Name="FirstName_TB" Text="{Binding FirstName}" HorizontalAlignment="Left" Margin="113,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,104,0,0" TextWrapping="Wrap" Text="Last name" VerticalAlignment="Top" FontFamily="Tex Gyre Adventor"/>
+        <TextBox x:Name="Lastname_TB" Text="{Binding LastName}" HorizontalAlignment="Left" Margin="113,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,142,0,0" TextWrapping="Wrap" Text="Office" VerticalAlignment="Top" FontFamily="Tex Gyre Adventor"/>
+        <ComboBox x:Name="CB_Office" SelectedItem="{Binding Offices}" HorizontalAlignment="Left" Margin="113,139,0,0" DisplayMemberPath="Title" VerticalAlignment="Top" Width="248" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,185,0,0" TextWrapping="Wrap" Text="Birthday" VerticalAlignment="Top" FontFamily="Tex Gyre Adventor"/>
+        <DatePicker x:Name="Birthday_TB" SelectedDate="{Binding Birthdate}" HorizontalAlignment="Left" Margin="113,181,0,0" VerticalAlignment="Top" Width="248" FontFamily="Tex Gyre Adventor"/>
+        <TextBlock HorizontalAlignment="Left" Margin="29,227,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" FontFamily="Tex Gyre Adventor"/>
+        <TextBox x:Name="Password_TB" Text="{Binding Password}" HorizontalAlignment="Left" Margin="113,227,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="248" FontFamily="Tex Gyre Adventor"/>
+        <Button Content="Save" Click="Save_Btn" HorizontalAlignment="Left" Margin="54,265,0,0" VerticalAlignment="Top" Width="83" FontFamily="Tex Gyre Adventor"/>
+        <Button Content="Cancel" Click="Cancel_Btn" HorizontalAlignment="Left" Margin="254,265,0,0" VerticalAlignment="Top" Width="82" FontFamily="Tex Gyre Adventor"/>
+
+    </Grid>
+</Window>

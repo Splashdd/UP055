@@ -1,0 +1,79 @@
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe.config
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.pdb
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.AssemblyReference.cache
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.SuggestedBindingRedirects.cache
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\MainWindow.g.cs
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\App.g.cs
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_MarkupCompile.cache
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_MarkupCompile.lref
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\MainWindow.baml
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.g.resources
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC_Airlines.Properties.Resources.resources
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.GenerateResource.cache
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.CoreCompileInputs.cache
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.exe
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.pdb
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.dll
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.SqlServer.dll
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.xml
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.SqlServer.xml
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\ru\EntityFramework.resources.dll
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_Content.g.cs
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.CopyComplete
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe.config
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.pdb
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.dll
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.SqlServer.dll
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.xml
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.SqlServer.xml
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\bin\Debug\ru\EntityFramework.resources.dll
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.AssemblyReference.cache
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.SuggestedBindingRedirects.cache
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\MainWindow.g.cs
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\App.g.cs
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_Content.g.cs
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_MarkupCompile.cache
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_MarkupCompile.lref
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\MainWindow.baml
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.g.resources
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC_Airlines.Properties.Resources.resources
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.GenerateResource.cache
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.CoreCompileInputs.cache
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.CopyComplete
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.exe
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.pdb
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\Edit.g.cs
+F:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\Edit.baml
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\Edit.g.cs
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\Edit.baml
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\ImportData.g.cs
+E:\Колледж\Egorov\УЧ.05.прога\сессия 2\AMONIC Airlines\obj\Debug\ImportData.baml
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe.config
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.exe
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\AMONIC Airlines.pdb
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.dll
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.xml
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.AssemblyReference.cache
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.SuggestedBindingRedirects.cache
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\Edit.g.cs
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\ImportData.g.cs
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\MainWindow.g.cs
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\App.g.cs
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_Content.g.cs
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_MarkupCompile.cache
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines_MarkupCompile.lref
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\Edit.baml
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\ImportData.baml
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\MainWindow.baml
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.g.resources
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC_Airlines.Properties.Resources.resources
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.GenerateResource.cache
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.CoreCompileInputs.cache
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.csproj.CopyComplete
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.exe
+C:\Users\Splash\Desktop\сессия 2\AMONIC Airlines\obj\Debug\AMONIC Airlines.pdb
